@@ -1,2 +1,3 @@
 Исправленная первая строка independent6
 Вторая строка independent6
+Третья строка independent6
