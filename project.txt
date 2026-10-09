@@ -1,0 +1,3 @@
+Название проекта: Git Practice
+Автор: karabuta yaroslav and mendybaev daniil
+Группа: 09.07.34
